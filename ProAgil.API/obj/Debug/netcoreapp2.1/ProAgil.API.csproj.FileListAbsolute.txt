@@ -1,0 +1,14 @@
+C:\Evento\ProAgil.API\bin\Debug\netcoreapp2.1\ProAgil.API.deps.json
+C:\Evento\ProAgil.API\bin\Debug\netcoreapp2.1\ProAgil.API.runtimeconfig.json
+C:\Evento\ProAgil.API\bin\Debug\netcoreapp2.1\ProAgil.API.runtimeconfig.dev.json
+C:\Evento\ProAgil.API\bin\Debug\netcoreapp2.1\ProAgil.API.dll
+C:\Evento\ProAgil.API\bin\Debug\netcoreapp2.1\ProAgil.API.pdb
+C:\Evento\ProAgil.API\obj\Debug\netcoreapp2.1\ProAgil.API.csprojAssemblyReference.cache
+C:\Evento\ProAgil.API\obj\Debug\netcoreapp2.1\ProAgil.API.csproj.CoreCompileInputs.cache
+C:\Evento\ProAgil.API\obj\Debug\netcoreapp2.1\ProAgil.API.RazorAssemblyInfo.cache
+C:\Evento\ProAgil.API\obj\Debug\netcoreapp2.1\ProAgil.API.RazorAssemblyInfo.cs
+C:\Evento\ProAgil.API\obj\Debug\netcoreapp2.1\ProAgil.API.AssemblyInfoInputs.cache
+C:\Evento\ProAgil.API\obj\Debug\netcoreapp2.1\ProAgil.API.AssemblyInfo.cs
+C:\Evento\ProAgil.API\obj\Debug\netcoreapp2.1\ProAgil.API.RazorTargetAssemblyInfo.cache
+C:\Evento\ProAgil.API\obj\Debug\netcoreapp2.1\ProAgil.API.dll
+C:\Evento\ProAgil.API\obj\Debug\netcoreapp2.1\ProAgil.API.pdb
